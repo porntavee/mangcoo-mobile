@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "6416335466",
+    "project_id": "mangcoo",
+    "storage_bucket": "mangcoo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6416335466:android:818a25dcfc1745c2c74013",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6416335466-6sgbokf8dhkjtt71b7vahoe9915rsbjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuKnPDPOCC0Uhx2TEZMMjvUjO75FwG1Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6416335466-6sgbokf8dhkjtt71b7vahoe9915rsbjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6416335466-cnbrd50bg171u1go8pegeooe11ighpse.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "td.webuild.ddpmen"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6416335466:android:a23e8c20820d346dc74013",
+        "android_client_info": {
+          "package_name": "popoz.tconnect.mangcoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6416335466-6sgbokf8dhkjtt71b7vahoe9915rsbjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuKnPDPOCC0Uhx2TEZMMjvUjO75FwG1Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6416335466-6sgbokf8dhkjtt71b7vahoe9915rsbjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6416335466-cnbrd50bg171u1go8pegeooe11ighpse.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "td.webuild.ddpmen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

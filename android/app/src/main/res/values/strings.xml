@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mangcoo</string>
+    <string name="facebook_app_id">262219965624912</string>
+    <string name="facebook_client_token">89e7ae583522a6063f1bcf379ac3724d</string>
+    <string name="fb_login_protocol_scheme">fb262219965624912</string>
+    <string name="line_channel_id">1655950063</string>
+</resources>
